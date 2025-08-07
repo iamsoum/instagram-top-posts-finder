@@ -1,0 +1,5 @@
+instaloader
+pandas
+
+Run this command in a terminal window:
+pip install instaloader && pandas
