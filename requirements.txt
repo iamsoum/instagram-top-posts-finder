@@ -1,5 +1,8 @@
+Create and activate a virtual environment: python -m venv insta-env && source insta-env/bin/activate
+
+Then cd to the virtual environment directory and install the required packages:
 instaloader
 pandas
 
-Run this command in a terminal window:
+Run this command in a terminal window to install the packages:
 pip install instaloader && pandas
